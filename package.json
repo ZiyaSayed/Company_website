@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ZiyaSayed/Company_website#readme",
   "dependencies": {
+    "bulma": "^0.9.1",
     "lite-server": "^2.5.4"
   }
 }
