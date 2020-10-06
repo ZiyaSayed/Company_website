@@ -1,0 +1,28 @@
+{
+  "name": "company_website-1",
+  "version": "1.0.0",
+  "description": "Company Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyaSayed/Company_website.git"
+  },
+  "keywords": [
+    "Affliate",
+    "website"
+  ],
+  "author": "Ziya Sayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyaSayed/Company_website/issues"
+  },
+  "homepage": "https://github.com/ZiyaSayed/Company_website#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
